@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maska\\source\\repos\\exem\\exem\\exem.csproj",
+      "projectUniqueName": "C:\\Users\\maska\\OneDrive\\Рабочий стол\\exem\\test\\program\\exem\\exem\\exem.csproj",
       "projectName": "exem",
-      "projectPath": "C:\\Users\\maska\\source\\repos\\exem\\exem\\exem.csproj",
+      "projectPath": "C:\\Users\\maska\\OneDrive\\Рабочий стол\\exem\\test\\program\\exem\\exem\\exem.csproj",
       "packagesPath": "C:\\Users\\maska\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maska\\source\\repos\\exem\\exem\\obj\\",
+      "outputPath": "C:\\Users\\maska\\OneDrive\\Рабочий стол\\exem\\test\\program\\exem\\exem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maska\\AppData\\Roaming\\NuGet\\NuGet.Config",
